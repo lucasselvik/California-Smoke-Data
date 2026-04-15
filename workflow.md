@@ -37,7 +37,7 @@ Before combining everything, we need to make sure all date-area combinations are
 
 `grid_final` has the following features: `grid_id_10km`, `AREA`, `geometry`, `date`, `smokePD_pred`, and `anomaly_pct`.
 
-### 4. Animate date
+### 4. Animate data
 
 1. Only smoke: plot `smokePD_pred` for each `geometry` for each `date`, with yellow representing low PM2.5 and red representing high PM2.5.
 2. Only mobility: plot `anomaly_pct` for each `geometry` for each `date`, with blue representing negative mobility anomaly percent, white representing no anomaly, and red representing positive mobility anomaly percent.
