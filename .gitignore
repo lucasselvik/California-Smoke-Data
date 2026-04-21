@@ -1,3 +1,5 @@
 *.csv
 *.rds
 .DS_Store
+.Rhistory
+*checkpoint.ipynb
